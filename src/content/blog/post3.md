@@ -2,7 +2,7 @@
 title: "Review Zurich NLP #17"
 description: "Aleksander Ficek (NVIDIA) on synthetic generators & verifiers for coding and Matteo Saponati (ETH Zurich) on the structures of self-attention beyond keys and queries."
 pubDate: "Jun 24 2025"
-heroImage: "/personal_blog/src/content/img_post3/zurichNLP.webp"
+heroImage: "/personal_blog/src/content/blog/img_post3/zurichNLP.webp"
 badge: "Latest"
 tags: ["zurichNLP", "LLM", "Nvidia"]
 ---

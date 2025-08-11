@@ -15,7 +15,7 @@ Every year, around 100 people die in avalanche accidents in Europe alone. Togeth
 
 The most efficient method of rescuing buried persons from an avalanche is still the help of colleagues. Due to the increasing number of ski tourers and freeriders who are off the marked pistes, it is not always possible to ensure that they are properly trained in the use of avalanche transceivers (LVS). The localisation of multiple burials in particular requires safe handling of the avalanche transceiver.
 
-![Figure 1](/src/content/projects/imgs_proj2/anavia1.png)
+![Figure 1](/personal_blog/src/content/projects/imgs_proj2/anavia1.png)
 
 The Glarus-based company ANAVIA develops and builds autonomous high-tech helicopter systems such as the HT-100 carrier system, which can be used for a wide variety of applications. As part of this Innovation Booster, the ICE, in collaboration with the ESA and ANAVIA, is developing a system consisting of a sensor system and an innovative localisation algorithm to locate single and multiple burials as efficiently as possible.
 

@@ -2,7 +2,7 @@
 title: "Key Vital Signs Monitor Based on MIMO Radar"
 description: "Research on advanced optimization techniques for improving efficiency in smart manufacturing environments."
 pubDate: "June 30 2025"
-heroImage: "/src/content/publications/imgs_pub2/sensors-25-04081-g001-550.jpg"
+heroImage: "/personal_blog/src/content/publications/imgs_pub2/sensors-25-04081-g001-550.jpg"
 badge: "Accepted"
 tags: ["Computer-Aided diagnosis", "Convolutional Neural Networks", "Displacement Measurements", "Machine Learning", "MIMO Radar", "Sleep Apnea"]
 journal: "International Conference on Smart Manufacturing"
@@ -39,7 +39,7 @@ The researchers used a sophisticated **Vayyar IMAGEVK-74 MIMO system** with impr
 - **Stepped-frequency continuous wave (SFCW) modulation**
 - **20 Hz measurement repetition rate**
 
-![Figure 1](/src/content/publications/imgs_pub2/sensors-25-04081-g001-550.jpg)
+![Figure 1](/personal_blog/src/content/publications/imgs_pub2/sensors-25-04081-g001-550.jpg)
 *Figure 1 |  Overview of the main operations and functions with ToF camera data (yellow) and radar
 data (green).*
 
