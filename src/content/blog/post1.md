@@ -2,7 +2,7 @@
 title: "Swiss Data Science Days 2025"
 description: "On June 26, 2025 I had the pleasure of attending the IEEE Swiss Conference on Data Science at the beautiful Circle Convention Center at Zurich Airport. On the agenda for the day stood two very promising workshops: From Queries to Actions: Hands-on With RAG and AI Agents and From Garbage to Gold: Building Trust in AI Through Data Quality"
 pubDate: "Aug 07 2025"
-heroImage: "/src/content/blog/imgs_post1/SDS2025.webp"
+heroImage: "/personal_blog/src/content/blog/imgs_post1/SDS2025.webp"
 tags: ["tokio"]
 ---
 
@@ -10,8 +10,8 @@ tags: ["tokio"]
 
 On June 26, 2025 I had the pleasure of attending the IEEE Swiss Conference on Data Science at the beautiful Circle Convention Center at Zurich Airport. On the agenda for the day stood two very promising workshops: "From Queries to Actions: Hands-on With RAG and AI Agents" and "From Garbage to Gold: Building Trust in AI Through Data Quality".
 
-![picture](/src/content/blog/imgs_post1/sds2025_0.png)
-![picture](/src/content/blog/imgs_post1/sds2025_1.png)
+![picture](/personal_blog/src/content/blog/imgs_post1/sds2025_0.png)
+![picture](/personal_blog/src/content/blog/imgs_post1/sds2025_1.png)
 
 
 ## Morning

@@ -2,7 +2,7 @@
 title: "Autonomous Drone System for Precise Localization of Avalanche Victim"
 description: "Every year, around 100 people die in avalanche accidents in Europe alone. Together with industry partner ANAVIA from Näfels GL, a system is being developed to localise avalanche victims as quickly as possible. The project idea was selected as the winner of the 5th Innovation Boosters Robotics call alongside five other projects."
 pubDate: "Nov 20 2024"
-heroImage: "/src/content/projects/imgs_proj2/anavia2.png"
+heroImage: "/personal_blog/src/content/projects/imgs_proj2/anavia2.png"
 badge: "Finished"
 tags: ["AI", "Signal Processing"]
 category: "AI Solution"

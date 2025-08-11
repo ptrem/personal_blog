@@ -2,7 +2,7 @@
 title: "Know the flow! Unique Footfall Information as USP in Payment and PropTech"
 description: "Development of a footfall model fed by a unique set of real data in order to generate footfall information in an unknown granularity (time and location), on-demand and as a basis for an ecosystem of location-intelligent products, and services for both implementation partners."
 pubDate: "Jul 15 2025"
-heroImage: "/src/content/projects/imgs_proj1/knowTheFlow.webp"
+heroImage: "/personal_blog/src/content/projects/imgs_proj1/knowTheFlow.webp"
 badge: "Finished"
 tags: ["AI"]
 category: "AI Solutions"
