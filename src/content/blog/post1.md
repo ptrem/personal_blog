@@ -1,56 +1,49 @@
 ---
-title: "Demo Post 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
-heroImage: "/post_img.webp"
+title: "Swiss Data Science Days 2025"
+description: "On June 26, 2025 I had the pleasure of attending the IEEE Swiss Conference on Data Science at the beautiful Circle Convention Center at Zurich Airport. On the agenda for the day stood two very promising workshops: From Queries to Actions: Hands-on With RAG and AI Agents and From Garbage to Gold: Building Trust in AI Through Data Quality"
+pubDate: "Aug 07 2025"
+heroImage: "/src/content/blog/imgs_post1/SDS2025.webp"
 tags: ["tokio"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
-malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
-pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
-platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada
-fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
-dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-quisque sagittis purus sit amet.
+## Swiss Data Science Days 2025
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
-quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
-Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
-Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit
-ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt
-dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus
-arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed
-tempus urna et pharetra pharetra massa massa ultricies mi.
+On June 26, 2025 I had the pleasure of attending the IEEE Swiss Conference on Data Science at the beautiful Circle Convention Center at Zurich Airport. On the agenda for the day stood two very promising workshops: "From Queries to Actions: Hands-on With RAG and AI Agents" and "From Garbage to Gold: Building Trust in AI Through Data Quality".
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
-sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
-Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna
-fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et
-egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel
-turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra
-nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim
-praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus
-egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
-ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
-purus non. Amet dictum sit amet justo donec enim.
+![picture](/src/content/blog/imgs_post1/sds2025_0.png)
+![picture](/src/content/blog/imgs_post1/sds2025_1.png)
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
-consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra.
-Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor
-dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor
-dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque
-eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices
-tincidunt arcu. Id cursus metus aliquam eleifend mi.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus
-imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu
-cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt
-dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat
-sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida.
-Egestas integer eget aliquet nibh praesent tristique magna.
+## Morning
+### From Queries to Actions: Hands-on With RAG and AI Agents
+#### Abstract
+Ready to elevate your AI applications beyond document retrieval? Join this hands-on workshop to build intelligent systems that combine the precision of Retrieval-Augmented Generation (RAG) with the autonomy of task-oriented AI agents.
+
+Start by implementing a RAG pipeline for accurate information retrieval, then advance to creating agents that autonomously plan and execute complex tasks. Through guided exercises and real-world examples, you will learn when to use each approach and how to combine them effectively.
+
+By the end of the session, you will have built a hybrid system capable of precise data retrieval and autonomous task execution-ready to tackle real-world challenges.
+
+### Organizers
+Elena Nazarenko, Lucerne University of Applied Sciences and Arts (HSLU)
+Aygul Zagidullina, Lucerne University of Applied Sciences and Arts (HSLU)
+
+### My resume
+My expectations for this workshop were rather high, as I hoped to learn new advanceded RAG techniques I could then apply to the projects I was currently working on. Building RAG Systems that leverage AI-Agents to extract structured output from heteregounes input data currently consumes a considerable amount of my workdays. The presenters from HSLU were lovely, but the level of the workshop was unfortunately a bit too low for me to really profit from it. Most of the things that were presented I was already familiar with.
+
+
+## Afternoon
+### From Garbage to Gold: Building Trust in AI Through Data Qualit
+
+#### Abstract
+Unlock the full potential of your AI initiatives by mastering data quality management. In this hands-on workshop, you will dive into real-world case studies to understand how data quality shapes AI performance and business outcomes.
+
+Through hands-on exercises using industry-leading data quality testing frameworks, such as Deequ or Great Expectations, you will gain practical experience in implementing automated quality checks and solving real data challenges.
+
+Collaborate with peers to share insights, tackle implementation hurdles, and leave equipped with actionable strategies to ensure your data supports trustworthy, high-performing AI. Perfect for anyone aiming to turn data into a strategic advantage.
+
+### Organizers
+Fiona Hefti, Innovation Process Technology (ipt)
+Kilian Dresse, Innovation Process Technology (ipt)
+
+### My resume
+This workshop showcased how the Great Expectations framework can be used effectively to establish and monitor data quality. Since poor data quality has often been the primary bottleneck in the machine learning projects I've worked on, I was excited to explore the capabilities that Great Expectations offers. The Jupyter notebooks provided were well-structured and gave us a valuable hands-on experience with real-world data. I'm looking forward to applying Great Expectations in future projects.
