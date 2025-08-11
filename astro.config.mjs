@@ -6,6 +6,6 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://ptrem.github.io',
-  base: 'personal_blog',
+  base: '/personal_blog',
   integrations: [mdx(), sitemap(), tailwind()]
 });
