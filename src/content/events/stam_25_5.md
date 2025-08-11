@@ -6,7 +6,7 @@ custom_link: "https://www.ost.ch/de/forschung-und-dienstleistungen/interdiszipli
 updatedDate: "2025-05-14"
 date: "13.5.2025, 17:30, OST Campus Buchs, CREALAB 1414 (Gebäude 1)"
 checkoutUrl: "https://checkouturl.com/"
-heroImage: "/personal_blog/stam_may25.webp"
+heroImage: "/personal_blog/src/content/events/imgs_stam_25_5/stam_may25.webp"
 tags: ["AI", "Ergotherapy", "Healthcare"]
 ---
 

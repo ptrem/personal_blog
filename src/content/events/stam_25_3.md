@@ -6,7 +6,7 @@ custom_link: "https://www.ost.ch/de/forschung-und-dienstleistungen/interdiszipli
 updatedDate: "2025-03-12"
 date: "11.03.2025, 17:30, OST Campus Buchs, CREALAB 1414 (Gebäude 1)"
 checkoutUrl: "https://checkouturl.com/"
-heroImage: "/personal_blog/stam_march25.webp"
+heroImage: "/personal_blog/src/content/events/imgs_stam_25_3/stam_march25.webp"
 tags: ["AI", "Software Engineering", "LLM"]
 ---
 

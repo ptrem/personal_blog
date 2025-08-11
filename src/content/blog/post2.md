@@ -2,7 +2,7 @@
 title: "XAI f\u00fcr CNN: Attributionsmethoden zur Bildanalyse"
 description: "Attributionsmethoden stellen ein wichtiges Instrument dar, um die Entscheidungsprozesse neuronaler Netze transparent zu machen. Sie ordnen jedem Eingabemerkmal einen Beitrag zur Vorhersage zu und erm\u00f6glichen somit eine Bewertung der Relevanz einzelner Merkmale. In diesem Beitrag werden g\u00e4ngige Attributionsmethoden f\u00fcr CNNs vorgestellt und mathematisch fundiert beschrieben. Besonderes Augenmerk liegt auf Gradienten-basierten Verfahren wie den Integrated Gradients, welche den Beitrag eines Pixels zur Vorhersage durch Integration entlang eines Pfades von einer Baseline zur Eingabe quantifizieren. Dar\u00fcber hinaus werden Konzepte wie Layer-wise Relevance Propagation (LRP), DeepLIFT und neuere Visualisierungstechniken wie SUMMIT diskutiert. Ziel ist es, ein Verst\u00e4ndnis f\u00fcr die methodischen Grundlagen und praktischen Herausforderungen der Erkl\u00e4rbarkeit tiefer Modelle zu vermitteln.."
 pubDate: "Jul 14 2025"
-heroImage: "/personal_blog/aikn.webp"
+heroImage: "/personal_blog/src/content/blog/imgs_post2/aikn.webp"
 ---
 
 # XAI f\u00fcr CNN: Attributionsmethoden zur Bildanalyse
