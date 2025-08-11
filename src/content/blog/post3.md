@@ -45,7 +45,7 @@ Yet, contrary to earlier belief that RL was essential for state-of-the-art reaso
 
 ### 🎯 NVIDIA’s Llama-Nemotron: SFT + RL = Efficiency & Power
 
-![Figure 1](/personal_blog/src/content/blog/imgs_post3/llama_nemotron1.png)
+![Figure 1](/personal_blog/llama_nemotron1.png)
 *Figure 1 | As of April 2025, our flagship model LN-Ultra is the most “intelligent” open model according to Artificial Analysis.*
 
 1. **[Llama‑Nemotron](https://www.nvidia.com/de-de/ai-data-science/foundation-models/nemotron/) (Nano 8B, Super 49B, Ultra 253B) \[[Paper](https://arxiv.org/abs/2505.00949)\]**
@@ -64,7 +64,7 @@ Yet, contrary to earlier belief that RL was essential for state-of-the-art reaso
     * Ultra‑253B outperforms DeepSeek‑R1 on many reasoning benchmarks, while maintaining **4× higher throughput** and fitting on a single 8‑GPU node.
     * Hits **76% on GPQA-Diamond** (PhD-level science reasoning!?), compared to 65% for humans.
 
-![Figure 2](/personal_blog/src/content/blog/imgs_post3/llama_nemotron2.png)
+![Figure 2](/personal_blog/llama_nemotron2.png)
 *Figure 2 | LN-Ultra delivers leading performance among open models across a wide range of reasoning and non-reasoning benchmarks.*
 
 1. **Open & Production‑Ready**
@@ -105,7 +105,7 @@ The paper “[The underlying structures of self-attention: symmetry, directional
 ### 🔍 What Problem Are They Tackling?
 While self-attention was a breakthrough in Transformers by mapping queries and keys (via $W_Q$, $W_K$​​) into attention patterns via $QK^T$ it's still not well understood why it works so well. This paper builds a mathematical framework that connects gradient dynamics to specific structural patterns in the joint query-key matrix ($W_{QK}=W_Q^TW_K$ ​, also referred to as $W_{qk}$) .
 
-![Figure 3](/personal_blog/src/content/blog/imgs_post3/self_att1.JPG)
+![Figure 3](/personal_blog/self_att1.JPG)
 *Figure 3 | Illustration of the computation of the self-attention score between token $x_i$ and token $x_j$.*
 
 ### 🧩 Symmetry vs. Directionality: The Core Insights
@@ -118,7 +118,7 @@ While self-attention was a breakthrough in Transformers by mapping queries and k
 
 These differences are not just theoretical—they're measurable.
 
-![Figure 4](/personal_blog/src/content/blog/imgs_post3/self_att2.JPG)
+![Figure 4](/personal_blog/self_att2.JPG)
 *Figure 4 | a) Left) Median symmetry score of the matrix $W_{qk}$ as a function of the total number of parameters.
 Each dot corresponds to the median and the interquartile range across layers of a given pre-trained model (see
 Tables in Appendix S5). Right) Example of structures in the $W_{qk}$ matrix of an encoder-only model (BERT

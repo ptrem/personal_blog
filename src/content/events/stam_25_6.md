@@ -7,7 +7,7 @@ updatedDate: "2025-06-11"
 date: "10.06.2025, 17:30, OST Campus Buchs, CREALAB 1414 (Gebäude 1)"
 badge: "Latest"
 checkoutUrl: "https://checkouturl.com/"
-heroImage: "/personal_blog/src/content/events/imgs_stam_25_6/stam_june25.webp"
+heroImage: "/personal_blog/stam_june25.webp"
 tags: ["AI", "Optimization", "Metal Engineering"]
 ---
 
